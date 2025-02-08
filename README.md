@@ -10,8 +10,8 @@ _new repository for design 6 but italisized_
 - ramen
 - sushi
 - pizza
-'print("I like all the food listed above")'
+`print("I like all the food listed above")`
 ---
-[youtube video on how to add links to github](https://www.youtube.com/watch?v=uvTcd-VlM64&ab_channel=Coderama)
+[YouTube video on how to add links to github](https://www.youtube.com/watch?v=uvTcd-VlM64&ab_channel=Coderama)
 ![20220429_144812](https://github.com/user-attachments/assets/73aae767-2da6-4351-812b-9a43f3d0ecdd)
 
